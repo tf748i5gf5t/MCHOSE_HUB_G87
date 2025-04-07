@@ -26,5 +26,5 @@
    npx http-server
    ```
 
-   
+   ![](1.png)
 
